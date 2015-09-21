@@ -26,6 +26,3 @@ this code generate html
 ....
 
 ```
-
-
----
